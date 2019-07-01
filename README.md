@@ -1,6 +1,6 @@
 # TuSimple Lane Challenge Class Labels
 
-This repository contains the class labels for the lane boundaries of the TuSimple lane detection dataset. You can download the dataset from [https://github.com/TuSimple/tusimple-benchmark/issues/3](here).
+This repository contains the class labels for the lane boundaries of the TuSimple lane detection dataset. You can download the dataset from https://github.com/TuSimple/tusimple-benchmark/issues/3.
 
 ## Classes
 
