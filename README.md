@@ -4,7 +4,7 @@ This repository contains the class labels for the lane boundaries of the TuSimpl
 
 ## Classes
 
-Each lane boundary in the dataset is annotated using 7 different classes. Lanes that cannot be uniquely identified are annotated as `Unknown`. A hierarchical representation of the classes is shown below. Even if the `Double-dashed-continuous` class has been considered during the annotation process for completeness, there are no examples in the dataset of that class.
+Each lane boundary in the dataset is annotated using 7 different classes. Lanes that cannot be uniquely identified are annotated as `Unknown`. A hierarchical representation of the classes is shown below. Even if the `Double-dashed-continuous` class has been considered during the annotation process for completeness, there are no examples in the dataset of that class. The names of the class ids are in `class_mapping.txt`.
 
 ![hierarchy](https://user-images.githubusercontent.com/10325202/60464863-fcd9ea80-9c4f-11e9-8f92-a7158bc10582.png)
 
