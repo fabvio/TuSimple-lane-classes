@@ -1,0 +1,7 @@
+1: continuous yellow
+2: continuous white
+3: dashed
+4: double dashed
+5: Botts' dots
+6: double continuous yellow
+7: unknown
